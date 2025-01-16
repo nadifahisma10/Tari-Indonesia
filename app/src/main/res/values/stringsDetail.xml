@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_detail">Tari Indonesia</string>
+    <string name="content_text">Tari Aceh adalah bentuk ekspresi seni yang kaya dan beragam, mencerminkan budaya dan sejarah yang unik dari Provinsi Aceh. Tarian-tarian ini tidak hanya sekadar gerakan tubuh, tetapi juga mengandung makna filosofis, nilai-nilai sosial, dan seringkali dihubungkan dengan sejarah dan adat istiadat masyarakat Aceh.</string>
+    <string name="content_specs_display"> Indonesia </string>
+    <string name="content_specs_size"> Google, Jurnal, Buku, Budayawan, Pemangku Adat Setempat</string>
+    <string name="content_specs_battery"> "Keanekaragaman budaya manusia sangat luas; jangkauan praktik budaya, kepercayaan, dan bahasa yang kita gunakan sangat luas." - Mark Pagel </string>
+    <string name="title">Tari Aceh</string>
+    <string name="specification">Lain-lain</string>
+    <string name="display">Asal</string>
+    <string name="size">Referensi</string>
+    <string name="battery">Pesan</string>
+</resources>
