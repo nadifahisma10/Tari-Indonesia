@@ -1,0 +1,3 @@
+com.example.tariindonesia.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
