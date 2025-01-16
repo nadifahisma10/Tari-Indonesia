@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/layout_layout_specification.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/layout/layout_specification.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_jawa_timur.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/jawa_timur.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_lampung.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/lampung.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_papua.jpeg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/papua.jpeg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/layout_detail_activity_main.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/layout/detail_activity_main.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_jambi.jpeg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/jambi.jpeg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_bali.jpeg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/bali.jpeg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_jogja.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/jogja.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_sumatera_barat.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/sumatera_barat.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_riau.png.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/riau.png"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_bengkulu.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/bengkulu.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_bangka_belitung.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/bangka_belitung.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_jakarta.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/jakarta.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_sumatera_selatan.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/sumatera_selatan.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_banten.jpeg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/banten.jpeg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/layout_activity_main.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_aceh.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/aceh.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_sumatera_utara.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/sumatera_utara.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_jawa_tengah.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/jawa_tengah.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/menu_menu_main.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/layout_item_row_dance.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/layout/item_row_dance.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_ntb.jpeg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/ntb.jpeg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_jawa_barat.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/jawa_barat.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_ntt.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/ntt.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/layout_about_activity_main.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/layout/about_activity_main.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/drawable_myselff.jpg.flat",
+        "source": "com.example.tariindonesia.app-main-32:/drawable/myselff.jpg"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.tariindonesia.app-main-32:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-release-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tariindonesia.app-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]

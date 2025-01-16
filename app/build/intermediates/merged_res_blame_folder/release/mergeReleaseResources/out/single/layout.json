@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.tariindonesia.app-mergeReleaseResources-30:/layout/detail_activity_main.xml",
+        "source": "com.example.tariindonesia.app-main-32:/layout/detail_activity_main.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-mergeReleaseResources-30:/layout/activity_main.xml",
+        "source": "com.example.tariindonesia.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-mergeReleaseResources-30:/layout/layout_specification.xml",
+        "source": "com.example.tariindonesia.app-main-32:/layout/layout_specification.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-mergeReleaseResources-30:/layout/about_activity_main.xml",
+        "source": "com.example.tariindonesia.app-main-32:/layout/about_activity_main.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-mergeReleaseResources-30:/layout/item_row_dance.xml",
+        "source": "com.example.tariindonesia.app-main-32:/layout/item_row_dance.xml"
+    }
+]
