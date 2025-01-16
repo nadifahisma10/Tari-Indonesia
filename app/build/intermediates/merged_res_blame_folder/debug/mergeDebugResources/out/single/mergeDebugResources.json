@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_banten.jpeg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\banten.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_sumatera_selatan.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\sumatera_selatan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_bengkulu.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\bengkulu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_sumatera_utara.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\sumatera_utara.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_jakarta.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\jakarta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\menu_detail_menu.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-debug-31:/layout_detail_activity_main.xml.flat",
+        "source": "com.example.tariindonesia.app-main-33:/layout/detail_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_sulawesi_selatan.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\sulawesi_selatan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_jawa_tengah.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\jawa_tengah.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_lampung.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\lampung.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_kalimantan_selatan.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\kalimantan_selatan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_bangka_belitung.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\bangka_belitung.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\layout_layout_specification.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\layout_specification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_riau.png.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\riau.png"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_jawa_barat.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\jawa_barat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_ntb.jpeg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\ntb.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_gorontalo.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\gorontalo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_sulawesi_tengah.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\sulawesi_tengah.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_myselff.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\myselff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_sumatera_barat.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\sumatera_barat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_bali.jpeg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\bali.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_kalimantan_barat.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\kalimantan_barat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\layout_detail_activity_main.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\detail_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_sulawesi_utara.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\sulawesi_utara.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_jambi.jpeg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\jambi.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\layout_detail_landscape.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\detail_landscape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_jawa_timur.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\jawa_timur.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_kalimantan_tengah.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\kalimantan_tengah.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_kalimantan_timur.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\kalimantan_timur.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_ntt.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\ntt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_sulawesi_tenggara.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\sulawesi_tenggara.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\layout_item_row_dance.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\item_row_dance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_sulawesi_barat.jpeg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\sulawesi_barat.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_maluku_utara.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\maluku_utara.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_aceh.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\aceh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\layout_about_activity_main.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\about_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_kalimantan_utara.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\kalimantan_utara.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_maluku.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\maluku.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_jogja.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\jogja.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-debug-31:\\drawable_papua.jpeg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\drawable\\papua.jpeg"
+    }
+]

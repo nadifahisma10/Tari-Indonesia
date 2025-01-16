@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-mergeDebugResources-30:\\layout\\detail_landscape.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\detail_landscape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-mergeDebugResources-30:\\layout\\about_activity_main.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\about_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-mergeDebugResources-30:\\layout\\item_row_dance.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\item_row_dance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-mergeDebugResources-30:\\layout\\detail_activity_main.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\detail_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-mergeDebugResources-30:\\layout\\layout_specification.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.tariindonesia.app-main-33:\\layout\\layout_specification.xml"
+    },
+    {
+        "merged": "com.example.tariindonesia.app-mergeDebugResources-30:/layout/detail_activity_main.xml",
+        "source": "com.example.tariindonesia.app-main-33:/layout/detail_activity_main.xml"
+    }
+]
